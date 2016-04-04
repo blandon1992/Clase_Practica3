@@ -5,4 +5,16 @@
     <string name="proy">Proyecto</string>
     <string name="calc">Calcular</string>
     <string name="notaFinal">Nota Final</string>
+    <string name="titulo">Porcentajes (%)</string>
+    <string name="almacenar">Guardar</string>
+    <string name="config">Configurar</string>
+    <string name="acerca">Acerca de</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="errorNota">Las notas deben ser menores que 5</string>
+    <string name="errorCampoVacio">Por favor introducir todos los datos</string>
+    <string name="errorPorcentaje">La suma de los porcentajes debe ser 100</string>
+    <string name="pressConfig">Ha presionado la opcion configurar</string>
+    <string name="expop"> Exposiciones(%)= </string>
+    <string name="pracp"> Prácticas(%)= </string>
+    <string name="proyp"> Proyecto(%)= </string>
 </resources>

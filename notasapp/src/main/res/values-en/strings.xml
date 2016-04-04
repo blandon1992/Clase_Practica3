@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NotasApp</string>
+    <string name="expo">Expositions</string>
+    <string name="prac">Practices</string>
+    <string name="proy">Project</string>
+    <string name="calc">Calculate</string>
+    <string name="notaFinal">Final Note</string>
+    <string name="titulo">Percentages (%)</string>
+    <string name="almacenar">Save</string>
+    <string name="config">Config</string>
+    <string name="acerca">About</string>
+    <string name="limpiar">Clear</string>
+    <string name="errorNota">The notes should be less than 5</string>
+    <string name="errorCampoVacio">Please enter all data</string>
+    <string name="errorPorcentaje">The sum of the percentages must be 100</string>
+    <string name="pressConfig">You pressed the option set</string>
+    <string name="expop"> Expositions(%)= </string>
+    <string name="pracp"> Practices(%)= </string>
+    <string name="proyp"> Project(%)= </string>
+</resources>
